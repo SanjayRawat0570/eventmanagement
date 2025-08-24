@@ -123,7 +123,7 @@ export default function HomePage() {
                     Sign In
                   </Button>
                 </form>
-                <div className="text-center text-sm text-gray-600">Demo: admin@eventease.com / password</div>
+                
               </TabsContent>
 
               <TabsContent value="register" className="space-y-4">
